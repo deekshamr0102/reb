@@ -3,3 +3,7 @@ second line
 third
 fourth line
 fifth line
+<<<<<<< HEAD
+=======
+sixth line
+>>>>>>> ca83e32 (commit changes)
